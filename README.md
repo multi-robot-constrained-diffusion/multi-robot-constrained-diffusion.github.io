@@ -1,14 +1,14 @@
 # Nerfies
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models](https://multi-robot-constrained-diffusion.github.io). It has been adapted from the [Nerfies website](https://nerfies.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{liang2025simultaneous,
+  author    = {Liang, Jinhao and Christopher, Jacob K. and Koenig, Sven and Fioretto, Ferdinando},
+  title     = {Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models},
+  journal   = {Forty-second International Conference on Machine Learning},
+  year      = {2025},
 }
 ```
 
