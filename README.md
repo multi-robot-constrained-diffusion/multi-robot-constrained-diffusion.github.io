@@ -1,8 +1,8 @@
-# Nerfies
+# Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models (SMD)
 
 This is the repository that contains source code for the [Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models](https://multi-robot-constrained-diffusion.github.io). It has been adapted from the [Nerfies website](https://nerfies.github.io).
 
-If you find Nerfies useful for your work please cite:
+If you find SMD useful for your work please cite:
 ```
 @article{liang2025simultaneous,
   author    = {Liang, Jinhao and Christopher, Jacob K. and Koenig, Sven and Fioretto, Ferdinando},
